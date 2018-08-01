@@ -1,0 +1,9 @@
+h:\Data\VS\Projects\ConsoleApp1\ConsoleHelper\bin\Debug\ConsoleHelper.dll
+h:\Data\VS\Projects\ConsoleApp1\ConsoleHelper\bin\Debug\ConsoleHelper.pdb
+h:\Data\VS\Projects\ConsoleApp1\ConsoleHelper\obj\Debug\ConsoleHelper.dll
+h:\Data\VS\Projects\ConsoleApp1\ConsoleHelper\obj\Debug\ConsoleHelper.pdb
+z:\VS\ConsoleHelperTester\ConsoleHelper\bin\Debug\ConsoleHelper.dll
+z:\VS\ConsoleHelperTester\ConsoleHelper\bin\Debug\ConsoleHelper.pdb
+z:\VS\ConsoleHelperTester\ConsoleHelper\obj\Debug\ConsoleHelper.dll
+z:\VS\ConsoleHelperTester\ConsoleHelper\obj\Debug\ConsoleHelper.pdb
+Z:\VS\ConsoleHelperTester\ConsoleHelper\obj\Debug\ConsoleHelper.csproj.CoreCompileInputs.cache
