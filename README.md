@@ -14,4 +14,5 @@
 -		Wait(...)
 -		Animator class - simple animation in Console application(...)
 
-
+# Demo
+![Demo](demo.gif "Demo")
