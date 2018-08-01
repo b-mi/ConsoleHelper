@@ -1,9 +1,17 @@
 # ConsoleHelper
-c# Console helper
-###ConsoleHelper
 
-- Library for Console painting;
-![Demo](demo.gif "Demo")
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+- Library for Console painting - for simple program learning;
+- Demo: ConsoleHelper.Demo.Run(); in Demo.cs
+- Methods:
+-		FullScreen()
+- 		DrawCircle(...)
+-		Random methods
+-		Write(...)
+-		DrawTriangle(...)
+-		DrawEllipse(...)
+-		DrawLine(...)
+-		MoveRectangle(...)
+-		Wait(...)
+-		Animator class - simple animation in Console application(...)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
