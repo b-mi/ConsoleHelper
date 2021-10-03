@@ -1,6 +1,6 @@
 # ConsoleHelper
 
-- Library for Console painting - for simple program learning;
+- Library for Console painting - for children's learning of programming
 - Demo: ConsoleHelper.Demo.Run(); in Demo.cs
 - Methods:
 -		FullScreen()
